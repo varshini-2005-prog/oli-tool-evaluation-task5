@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "actual_tool_calls": [
+      "get_my_terms",
+      "check_offer"
+    ]
+  },
+  {
+    "id": 2,
+    "actual_tool_calls": [
+      "get_my_creator_profile"
+    ]
+  },
+  {
+    "id": 3,
+    "actual_tool_calls": [
+      "list_my_deals"
+    ]
+  },
+  {
+    "id": 4,
+    "actual_tool_calls": [
+      "list_paid_briefs"
+    ]
+  },
+  {
+    "id": 5,
+    "actual_tool_calls": [
+      "get_my_terms",
+      "check_offer"
+    ]
+  },
+  {
+    "id": 6,
+    "actual_tool_calls": [
+      "get_my_terms",
+      "check_offer",
+      "save_deal"
+    ]
+  },
+  {
+    "id": 7,
+    "actual_tool_calls": [
+      "propose_terms_update"
+    ]
+  },
+  {
+    "id": 8,
+    "actual_tool_calls": [
+      "confirm_terms_update"
+    ]
+  },
+  {
+    "id": 9,
+    "actual_tool_calls": [
+      "update_deal"
+    ]
+  },
+  {
+    "id": 10,
+    "actual_tool_calls": [
+      "save_work_plan"
+    ]
+  },
+  {
+    "id": 11,
+    "actual_tool_calls": [
+      "get_my_terms"
+    ]
+  },
+  {
+    "id": 12,
+    "actual_tool_calls": [
+      "get_my_terms",
+      "check_offer"
+    ]
+  },
+  {
+    "id": 13,
+    "actual_tool_calls": [
+      "list_my_deals"
+    ]
+  },
+  {
+    "id": 14,
+    "actual_tool_calls": [
+      "get_my_creator_profile",
+      "list_paid_briefs"
+    ]
+  },
+  {
+    "id": 15,
+    "actual_tool_calls": [
+      "get_my_terms",
+      "check_offer"
+    ]
+  },
+  {
+    "id": 16,
+    "actual_tool_calls": [
+      "save_work_plan"
+    ]
+  },
+  {
+    "id": 17,
+    "actual_tool_calls": [
+      "update_deal"
+    ]
+  },
+  {
+    "id": 18,
+    "actual_tool_calls": [
+      "get_my_terms",
+      "check_offer"
+    ]
+  },
+  {
+    "id": 19,
+    "actual_tool_calls": [
+      "propose_terms_update"
+    ]
+  },
+  {
+    "id": 20,
+    "actual_tool_calls": [
+      "get_my_terms",
+      "get_my_creator_profile",
+      "check_offer",
+      "save_deal",
+      "list_my_deals",
+      "save_work_plan"
+    ]
+  }
+]
